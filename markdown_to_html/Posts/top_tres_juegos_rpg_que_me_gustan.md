@@ -17,4 +17,12 @@
 
 
 - The Witcher 3
-  - Este 
+  - Este juego al igual que el otro es un rpg completamente en el que a travez de tus desiciones llegas a un final u otro pero a diferencia de cyberpunk este videojuego tiene una tematica mediaval fantasiosa. La historia de este juego nos narra la continuacion de la trama de la vida de Geralt de Rivia un brujo el cual en la primera entrega tras unos eventos pierde todos sus recuerdos incluyendo en estos su nombre, experiencia, los recuerdos de aquellos a quien amaba, etc. durente la primera e segunda entrega intentara recuperar sus recuerdos y recordar quien es, objetivo que logra. Ahora remontandonos a la tercera entrega, se nos cuenta como Geralt debe encontrar a Ciri, salvarla y ponerla a salvo de la "Caceria salvaje". Por otro lado mi interes por este juego se remonta a cuando yo me vi la serie de "The Witcher" en netflix, la cual hizo interesarme por su mundo llegando incluso a ansiarme leer algunos de los muchos libros que esta saga tiene de los cuales muchos fueron utilizados para crear este videojuego. Bueno retomando lo que comente anteriormente este juego tras ver la serie me fascino y tras mucho tiempo esperando una rebaja en paginas de Keys me lo compre, empezando así a juagarlo, la primeras horas recuerdo que fueron aburridas para mi porque habia muchas secundarias y eso a mi me estresaba asi que lo jugue durante mucho tiempo pero debido a su larga duracion y mi posible aburrimiento decidi dejarlo unas semanas al terminar esas semanas lo retome llegando a terminar este juego y sacando un final el cual me dejo un vacio existensial llegando incluso a tener que dejar durante mucho tiempo el juego y cuando me diera un tiempo a saciar ese vacio retomar el juego y terminar sus dlc´s(spoiler todavia no lo he jugado más).
+  
+  - Aqui adjunto algunas imagenes del juego (no son mias):
+  ![Alt text](image-6.png)    
+  ![Alt text](image-7.png)
+  ![Alt text](image-8.png)
+  ![Alt text](image-9.png)
+
+  
