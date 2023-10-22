@@ -5,3 +5,5 @@
   - [Top_Rpg](Posts/top_tres_juegos_rpg_que_me_gustan.md)
   
   - [Top_Plataformas](Posts/Top_juegos_de_plataformas_que_me_gustan.md)
+
+  -[Top_Shooter](Posts/Top_tres_shooter_que_me_gustan.md)
