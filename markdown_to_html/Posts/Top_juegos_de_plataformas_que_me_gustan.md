@@ -23,3 +23,15 @@
   ![Alt text](image-15.png)
   ![Alt text](image-16.png)
   ![Alt text](image-17.png)
+
+- Super Mario Galaxy 1
+
+  - Este juego fue el primer plataforma 3d de la saga Super Mario que jugue, en si el juego recuerdo que me diverti mucho jugandolo y en cierta forma no tengo ningun recuerdo como en los otros pero de lo que si me acuerdo es de su final el cual es increible tanto su musica como la introduccion a este ultimo nivel lo cual me encanto y se me quedo guardado en el cerebro. Por otro lado la historia de este en si es simple, al igual que los otros juegos de esta saga, este juego nos cuenta como Mario tiene que ir a salvar a la princesa Peach al espacio.
+
+  - A continuacion adjunto algunas imagenes: 
+   ![Alt text](image-18.png)
+   ![Alt text](image-19.png)
+   ![Alt text](image-20.png)
+   ![Alt text](image-21.png)
+
+[Index.md](../index.md)
